@@ -1,2 +1,2 @@
 # Tasks-Exercises
-numpy and pandas tasks for data science 
+Tasks related to Data science, which were performed while doing a Data Science course at Guvi.
